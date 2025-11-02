@@ -54,7 +54,7 @@
 
 ## 🌐 Connect with Me
 
-- 📩 **Telegram:** [@jmicco](https://t.me/jmicco)  
+- 📩 **Telegram:** [@devmirko](https://t.me/jmicco)  
 - 🎮 **Discord:** `@jmicco`  
 
 ---
@@ -63,9 +63,9 @@
 
 <div align="center">
 
-![Mirko's Stats](https://github-readme-stats.vercel.app/api?username=jmiccoDev&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![Mirko's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jmiccoDev&theme=dark&hide_border=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmiccoDev&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Most Used Languages">
+![Mirko's Stats](https://github-readme-stats.vercel.app/api?username=devmirkoo&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Mirko's Streak](https://github-readme-streak-stats.herokuapp.com/?user=devmirkoo&theme=dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmirkoo&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Most Used Languages">
 
 </div>
 
